@@ -93,4 +93,4 @@ Divides one number by another</p>
 3.Operating System: Windows / Linux</p>
 
 <h2>Screenshot of Output</h2>
-<img src="screenshot.png"alt="Screenshot of Output">
+<p>Added in the repository</p>
