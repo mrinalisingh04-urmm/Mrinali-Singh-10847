@@ -65,4 +65,6 @@ Divides one number by another</p>
 3.Operating System: Windows / Linux</p>
 
 <h2>Screenshot of Output</h2>
-<img>c:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot 2026-02-03 235133.png</img>
+<a href="c:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot 2026-02-03 235133.png">
+  <img src="image.jpg" alt="Screenshot of output">
+</a>
