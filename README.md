@@ -5,19 +5,26 @@ Project Name- Menu Driven Program for Basic Number Operations Using Functions us
 <h1>Details</h1>
 <h2>Objective</h2>
 <p>The main objective of this project is to:
+<br>
 Understand the concept of functions in C
 Learn how to create a menu-driven program
 Perform basic arithmetic operations such as:
+<br>
 1.Addition
+<br>
 2.Subtraction
+<br>
 3.Multiplication
+<br>
 4.Division
+<br>
 using user-defined functions.</p>
 
 <h2>Project Description</h2>
 <p>This project is a menu-driven C program that allows the user to choose an arithmetic operation from a given menu.
 Based on the user’s choice, the program calls the corresponding function to perform the calculation and display the result.
 The program uses:
+<br>
 1.switch-case for decision making.
 <br>
 2.Separate functions for each operation.
@@ -86,5 +93,4 @@ Divides one number by another</p>
 3.Operating System: Windows / Linux</p>
 
 <h2>Screenshot of Output</h2>
-<a href="c:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot 2026-02-03 235133.png">
-</a>
+<img src="screenshot.png"alt="Screenshot of Output">
