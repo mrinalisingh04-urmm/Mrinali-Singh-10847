@@ -63,3 +63,6 @@ Divides one number by another</p>
 <p>1.Programming Language: C
 2.Compiler: GCC / Turbo C / Code::Blocks
 3.Operating System: Windows / Linux</p>
+
+<h2>Screenshot of Output</h2>
+<img>c:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot 2026-02-03 235133.png</img>
